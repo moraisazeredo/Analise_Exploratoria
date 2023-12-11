@@ -18,7 +18,7 @@ O objetivo desta análise é compreender melhor as relações entre variáveis-c
 *Bibliotecas: Pandas, Matplotlib, Seaborn
 ### 2.Instruções:
 * Faça o download ou clone este repositório
-* Execute o arquivo 'Análise_Exploratória.ipnb' em um ambiente Jupyter Notebook
+* Execute o arquivo 'Análise_Exploratória.ipynb' em um ambiente Jupyter Notebook
 
 ## Resultados
 A análise exploratória revelou insights significativos sobre a distribuição salarial, disparidades entre gêneros e a relação entre experiência e salário. Essas descobertas podem ser úteis para tomadas de decisões e estratégias dentro do contexto organizacional.
